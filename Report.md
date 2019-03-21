@@ -2,7 +2,7 @@
 
 [image1]: ./FigurePlot.png "Rewards Plot"
 
-# Project 1: Navigation - Report
+# Navigation - Report
 
 ### Solution
 
